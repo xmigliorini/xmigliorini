@@ -1,20 +1,20 @@
-<h1>Oiê! Aqui é a Sarah Migliorini (:</h1>
+<h1>Oiê! Aqui é a Sarah Migliorini (:</h1> <img align="left" heigth="400px" width="400px" alt="Sarah" src="https://c.tenor.com/cg0h-BiFJ5gAAAAd/star-wars-baby-yoda.gif">
 
  <div style="display: inline_block">
   <a href="https://github.com/xmigliorinii">
   <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=xmigliorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="115em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmigliorini&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sarah-Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
+  <img align="center" alt="Sarah-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Sarah-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Sarah-Node" height="50" width="50" src="https://www.mbejda.com/content/images/2015/12/node.png">
+  <img align="center" alt="Sarah-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Sarah-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Sarah-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sarah-MySQL" height="50" width="50" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
 </div>
- 
- <img align="right" height="95px" width="95px" alt="Sarah" src="https://i.picasion.com/pic91/a45495e22c9e02d22c71148e80ffe600.gif">
  
  ##
  
