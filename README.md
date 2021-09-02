@@ -16,6 +16,8 @@
  
  <img align="right" height="95px" width="95px" alt="Sarah" src="https://i.picasion.com/pic91/a45495e22c9e02d22c71148e80ffe600.gif">
  
+ ##
+ 
   <div> 
   <a href="https://www.linkedin.com/in/sarah-migliorini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://api.whatsapp.com/send?phone=5515981682732" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
