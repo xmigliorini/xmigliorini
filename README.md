@@ -1,9 +1,9 @@
-## Oiê! Aqui é a Sarah Migliorini (:
+<h1>Oiê! Aqui é a Sarah Migliorini (:</h1>
 
- <div>
+ <div style="display: inline_block">
   <a href="https://github.com/xmigliorinii">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=xmigliorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmigliorini&layout=compact&langs_count=7&theme=tokyonight"/> 
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=xmigliorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="115em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmigliorini&layout=compact&langs_count=7&theme=tokyonight"/> 
 </div>
  
 <div style="display: inline_block"><br>
@@ -12,10 +12,9 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" height="95px" width="95px" alt="Sarah" src="https://i.picasion.com/pic91/a45495e22c9e02d22c71148e80ffe600.gif">
 </div>
  
- #
+ <img align="right" height="95px" width="95px" alt="Sarah" src="https://i.picasion.com/pic91/a45495e22c9e02d22c71148e80ffe600.gif">
  
   <div> 
   <a href="https://www.linkedin.com/in/sarah-migliorini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
