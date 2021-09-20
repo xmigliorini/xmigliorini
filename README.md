@@ -2,7 +2,7 @@
 
  <div style="display: inline_block">
   <a href="https://github.com/xmigliorinii">
-  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=xmigliorini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></div>
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=xmigliorini&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/></div>
  
 <div style="display: inline_block">
   <img align="center" alt="Sarah-Git" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg">
