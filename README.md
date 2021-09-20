@@ -1,4 +1,4 @@
-<h1>Hey! I'm Sarah 🙋🏻‍♀️</h1> <img align="left" heigth="400px" width="400px" alt="Sarah" src="https://c.tenor.com/cg0h-BiFJ5gAAAAd/star-wars-baby-yoda.gif">
+<h1>Hey, I'm Sarah!</h1> <img align="left" heigth="400px" width="400px" alt="Sarah" src="https://c.tenor.com/cg0h-BiFJ5gAAAAd/star-wars-baby-yoda.gif">
 
  <div style="display: inline_block">
   <a href="https://github.com/xmigliorinii">
