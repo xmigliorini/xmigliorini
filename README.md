@@ -21,7 +21,7 @@
  ###### 👩🏻‍💻 I'm a 20 year old aspiring developer, resident of Sorocaba/SP (Brazil).
  ###### 🤝🏻 I have a degree in Human Resources and I love helping and meeting people.
  ###### 🌎 I want to be able to improve the world through technology (even if it's just a little bit).
- ###### 🦹🏻‍♀️ I love "making things prettier", like my resume, for example.
+ ###### 🦹🏻‍♀️ <a href="https://www.canva.com/design/DAElD6C6LUU/VGvgTDQvboHNy_zn1eSHvQ/view?utm_content=DAElD6C6LUU&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton">I love "making things prettier", like my resume, for example.</a>
  ###### 🖖🏻 I'm kinda geek.
  
  ##
